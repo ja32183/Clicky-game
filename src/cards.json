@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Cartman",
+      "image": "https://thehardtimes.net/wp-content/uploads/2017/09/southpark.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Mr. Garrison",
+      "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/02/south_park_ep_2009_garrison/lead_720_405.jpg?mod=1533691869",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Kenny",
+      "image": "https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE1XFxcLzA4XFxcLzIzMTYxNDAzXFxcL0tlbm55LVNvdXRoLXBhcmsuanBnXCIsXCJ3aWR0aFwiOjc2NyxcImhlaWdodFwiOjQzMSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9MjY0YTJkYmUzNzBmMmM2NzVmY2RcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjQzOGM0MWY2NjFiMjg1MWJmNjA0MDkzMGIzOTFiM2JmOTczZTkxOSJ9/kenny-south-park.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Bezos",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-11-at-10.37.24-AM-630x353.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Chef",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/14/16/south-park-chef.jpg?w968h681",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Butters",
+      "image": "https://thefreshtoast.com/wp-content/uploads/2018/10/south-park-will-tackle-legal-cannabis-and-vaping-1068x580.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Mr Slave",
+      "image": "https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/video/40005703?size=640x360",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Mr Mackie",
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fdanidiplacido%2Ffiles%2F2018%2F11%2Fsouth-park-s22e05-The-Scoots_16x9_1080p-1200x675.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Kyle",
+      "image": "https://www.much.com/wp-content/uploads/2015/05/Kyle1.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Towlie",
+      "image": "https://thefreshtoast.com/wp-content/uploads/2017/09/the-3-best-south-park-marijuana-episodes-of-all-time.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Cartman cop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyXKtO3hm_RPd9_YlL5tAXan2-3KK0jUAbPx5ghmJ-K3G1Z9S",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "PC principal",
+      "image": "https://pbs.twimg.com/media/D5bg-Y3XkAET9YZ.jpg",
+      "count": 0
+    }
+  ]
+  
